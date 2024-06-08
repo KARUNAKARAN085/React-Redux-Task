@@ -20,7 +20,7 @@ const Product = () => {
   };
 
   return (
-    <div className="container">
+    <div className="container my-5">
       <div className="col">
         <div className="card">
           <div className="row m-3">
