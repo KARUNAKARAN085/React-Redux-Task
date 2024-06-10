@@ -16,7 +16,7 @@ export const DataProvider = ({ children }) => {
             "stock": 94,
             "brand": "Apple",
             "category": "smartphones",
-            "thumbnail": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.price-hunt.com%2Fmobiles%2Fapple-iphone-9.php&psig=AOvVaw05I2GRmzhxk4bn9pAuptqq&ust=1718079787717000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCBusOZ0IYDFQAAAAAdAAAAABAK",
+            "thumbnail": "https://ic1.maxabout.us/news/2020/01/Apple-iPhone-SE-2-iPhone-9-4.jpg",
             "images": [
                 "https://i.dummyjson.com/data/products/1/1.jpg",
                 "https://i.dummyjson.com/data/products/1/2.jpg",
