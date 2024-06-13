@@ -5,4 +5,4 @@
 3. And update total amount accordingly using React Redux Toolkit.
 4. Implemented functionality to remove item when the 'REMOVE' buutton is clicked.
 
-submitted in netlify: [React Redux Task](https://react-redux-task-rk.netlify.app)
+submitted in netlify: [React Redux Task](https://react-redux-task-rk01.netlify.app)
